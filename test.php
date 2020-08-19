@@ -1,3 +1,4 @@
 <?php
-  echo "coucou";
+  echo "coucou les autres";
+  echo "<br/> tout le monde";
 ?>
